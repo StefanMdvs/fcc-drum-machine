@@ -2,56 +2,56 @@ export const keys  = [
     {
         keyCode: 81,
         keyTrigger: 'Q',
-        id: "Rimshot",
-        url: 'http://www.denhaku.com/r_box/sr16/sr16sd/lowetsid.wav'
+        id: "Heater 1",
+        url: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3'
     },
     {
         keyCode: 87,
         keyTrigger: 'W',
-        id: "Snare Drum",
-        url: 'http://www.denhaku.com/r_box/sr16/sr16sd/chromesn.wav'
+        id: "Heater 4",
+        url: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3'
     },
     {
         keyCode: 69,
         keyTrigger: 'E',
-        id: "Party",
-        url: 'http://dight310.byu.edu/media/audio/FreeLoops.com/5/5/Party%20Horn.wav-22854-Free-Loops.com.mp3'
+        id: "Heater 2",
+        url: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3'
     },
     {
         keyCode: 65,
         keyTrigger: 'A',
-        id: "Shaker",
-        url: 'http://tipiwiki.free.fr/snd/Shaker.wav'
+        id: "Heater 3",
+        url: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3'
     },
     {
         keyCode: 83,
         keyTrigger: 'S',
-        id: "Timbale",
-        url: 'http://cd.textfiles.com/10000soundssongs/WAV/TIMBLSTR.WAV'
+        id: "Clap",
+        url: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3'
     },
     {
         keyCode: 68,
         keyTrigger: 'D',
-        id: "Agogo",
-        url: 'http://www.denhaku.com/r_box/sr16/sr16perc/lo%20agogo.wav'
+        id: "Open HH",
+        url: 'https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3'
     },
     {
         keyCode: 90,
         keyTrigger: 'Z',
-        id: "Banjo",
-        url: 'http://cd.textfiles.com/sbmm/SOUNDS/BANJO.WAV'
+        id: "Kick'n Hat",
+        url: 'https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3'
     },
     {
         keyCode: 88,
         keyTrigger: 'X',
-        id: "Bass drum",
-        url: 'http://dight310.byu.edu/media/audio/FreeLoops.com/1/1/808%20Drum%20Kick%20032-2466-Free-Loops.com.mp3'
+        id: "Kick",
+        url: 'https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3'
     },
     {
         keyCode: 67,
         keyTrigger: 'C',
-        id: "Wood block",
-        url: 'http://ken3.net/km/sound/woodblock.wav'
+        id: "Closed HH",
+        url: 'https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3'
     }
         //https://www.findsounds.com/ISAPI/search.dll?start=1&keywords=wood%20block&seed=26    }
 ]
